@@ -1,0 +1,12 @@
+# github.com/Kong/go-pdk v0.8.0
+## explicit
+# github.com/dlclark/regexp2 v1.10.0
+## explicit
+# github.com/google/uuid v1.3.0
+## explicit
+# github.com/pkoukk/tiktoken-go v0.1.6
+## explicit
+# github.com/ugorji/go/codec v1.2.1
+## explicit
+# google.golang.org/protobuf v1.25.0
+## explicit
